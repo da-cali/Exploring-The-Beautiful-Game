@@ -1,2 +1,2 @@
-# Exploring-The-Beautiful-Game
+# Exploring The Beautiful Game
 Analizing soccer data in R
