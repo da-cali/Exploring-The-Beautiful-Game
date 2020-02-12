@@ -1,6 +1,6 @@
 ---
 title: "Exploring The Beautiful Game"
-output: html_notebook
+output: github_document
 ---
 
 
