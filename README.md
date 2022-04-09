@@ -5,7 +5,7 @@ I came across [this soccer
 dataset](https://www.kaggle.com/hugomathien/soccer/data) and decided to
 explore it using R.
 
-We begin loading the data.
+We begin by loading the data.
 
 ``` r
 library(DBI)
